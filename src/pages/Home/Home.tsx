@@ -51,7 +51,7 @@ export function Home() {
           <h3 className="font-base text-[32px] font-extrabold mb-9">
             Nossos cafés
           </h3>
-          <div className="flex flex-wrap">
+          <div className="flex flex-wrap gap-x-8 gap-y-10">
             <Product />
             <Product />
             <Product />
