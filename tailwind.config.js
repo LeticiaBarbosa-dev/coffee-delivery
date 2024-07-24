@@ -16,6 +16,9 @@ export default {
         title_base: "#272221",
         subtitle_base: "#403937",
         text_base: "#574F4D",
+        hover: "#D7D5D5",
+        input: "#EDEDED",
+        label:"#8D8686",
       },
       backgroundImage: {
         pattern: "url('/Background.png')",
